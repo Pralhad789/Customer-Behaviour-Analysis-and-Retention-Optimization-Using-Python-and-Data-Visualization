@@ -88,9 +88,9 @@ Impact of payment methods on churn :
 Analysis identified several key areas where improvements could reduce customer churn:
 
 * **Contract Type:** The majority of customers who churn are on month-to-month contracts. Encouraging customers to shift to longer-term contracts (e.g., one or two years) could significantly improve retention rates.
-* Pricing Sensitivity: Higher monthly charges correlate with a higher risk of churn. Developing more competitive pricing options or value-based bundles could help retain high-paying customers.
-* Billing Preferences: Customers using manual payment methods like electronic checks show a higher churn rate, indicating potential friction in the payment process.
-* Additional Services: The absence of optional services like device insurance and mobile data packages is associated with churn, suggesting that bundling these services might help retain customers.
+* **Pricing Sensitivity:** Higher monthly charges correlate with a higher risk of churn. Developing more competitive pricing options or value-based bundles could help retain high-paying customers.
+* **Billing Preferences:** Customers using manual payment methods like electronic checks show a higher churn rate, indicating potential friction in the payment process.
+* **Additional Services:** The absence of optional services like device insurance and mobile data packages is associated with churn, suggesting that bundling these services might help retain customers.
 
 ## Recommendations
 Based on the analysis, I recommend the following targeted strategies to reduce churn:
