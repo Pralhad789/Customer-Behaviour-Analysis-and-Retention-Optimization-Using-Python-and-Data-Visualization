@@ -60,7 +60,7 @@ Impact of payment methods on churn :
 
 (Image)
 
-### Business Insights : 
+## Business Insights : 
 **1. Contract Type:**
 * Month-to-Month Contracts: Churn Rate = 42.7%
 * One-Year Contracts: Churn Rate = 11.3%
