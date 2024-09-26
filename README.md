@@ -30,7 +30,7 @@ The dataset provided for analysis contains 7,043 records representing individual
 3. Account Details: Contract type (e.g., month-to-month, annual), tenure (i.e., how long they’ve been with the company), billing preferences, and total monthly charges.
 4. Churn Status: A binary variable indicating whether the customer has canceled their service.
 
-## Analysis and Insights
+## Explorartory Data Analysis
 
 Percentage of Churned Customers :
 
@@ -60,7 +60,7 @@ Impact of payment methods on churn :
 
 (Image)
 
-### Analysis Outcome : 
+### Business Insights : 
 **1. Contract Type:**
 * Month-to-Month Contracts: Churn Rate = 42.7%
 * One-Year Contracts: Churn Rate = 11.3%
@@ -84,7 +84,7 @@ Impact of payment methods on churn :
 
 **Insight:** Engaging customers with supplementary services can reduce churn and enhance loyalty.
 
-## Conclusion and Business Insights
+## Conclusion
 Analysis identified several key areas where improvements could reduce customer churn:
 
 * **Contract Type:** The majority of customers who churn are on month-to-month contracts. Encouraging customers to shift to longer-term contracts (e.g., one or two years) could significantly improve retention rates.
