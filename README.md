@@ -11,13 +11,13 @@ This project addresses the following critical business problems:
 2. Ineffective Pricing Strategies
 3. Low Customer Engagement and Loyalty
 
-To tackle these business challenges, conducted an exploratory data analysis (EDA) using Python on a dataset of over 7,000 customer records, analyzing various features such as customer demographics, service usage, account details, and churn status. 
+To tackle these business challenges, conducted an **exploratory data analysis** (EDA) using **Python** on a dataset of over 7,000 customer records, analyzing various features such as customer demographics, service usage, account details, and churn status. 
 
-* Data Cleaning and Preparation: Using Pandas, cleaned the dataset by handling missing values, removing duplicates, and converting categorical variables into numerical formats for analysis.
+* Data Cleaning and Preparation: Using **Pandas**, cleaned the dataset by handling missing values, removing duplicates, and converting categorical variables into numerical formats for analysis.
 
-* Descriptive Statistics: Employed NumPy to calculate key metrics and descriptive statistics, providing insights into customer demographics, churn rates, and service usage patterns.
+* Descriptive Statistics: Employed **NumPy** to calculate key metrics and descriptive statistics, providing insights into customer demographics, churn rates, and service usage patterns.
 
-* Visualization: Utilized Matplotlib and Seaborn for visualizing data distributions and relationships, helping to identify trends and patterns associated with customer churn.
+* Visualization: Utilized **Matplotlib** and **Seaborn** for visualizing data distributions and relationships, helping to identify trends and patterns associated with customer churn.
 
 * Correlation Analysis: By analyzing correlations between various features and churn status, pinpointed critical factors influencing customer retention, such as contract types, payment methods, and service engagement.
 
