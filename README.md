@@ -65,20 +65,20 @@ Impact of payment methods on churn :
 * Month-to-Month Contracts: Churn Rate = 42.7%
 * One-Year Contracts: Churn Rate = 11.3%
 * Two-Year Contracts: Churn Rate = 3%
-**Insight:** Flexibility in contracts correlates with higher churn, indicating a need for longer-term commitments to enhance retention.
+\\ **Insight:** Flexibility in contracts correlates with higher churn, indicating a need for longer-term commitments to enhance retention.
 Tenure and Monthly Charges:
 
 2. Shorter Tenures (< 1 Year): Higher churn likelihood.
 * Monthly Charges: Customers with premium rates (e.g., $80+) show increased churn, with those perceiving unfavorable pricing more likely to leave.
-**Insight:** Newer customers and those facing high costs are at greater risk of churn.
+\\ **Insight:** Newer customers and those facing high costs are at greater risk of churn.
 
 3. Payment Method:
 * Electronic Check Payments: Higher churn rate observed with cheque payemnts, significantly above credit card and automatic payments.
-**Insight:** Manual billing processes may contribute to customer dissatisfaction.
+\\ **Insight:** Manual billing processes may contribute to customer dissatisfaction.
 
 4. Additional Services:
 * Lack of Value-Added Services: Customers without add-ons (e.g., mobile data, device insurance) exhibit higher churn rates.
-**Insight:** Engaging customers with supplementary services can reduce churn and enhance loyalty.
+\\ **Insight:** Engaging customers with supplementary services can reduce churn and enhance loyalty.
 
 ## Conclusion and Business Insights
 Our analysis identified several key areas where improvements could reduce customer churn:
