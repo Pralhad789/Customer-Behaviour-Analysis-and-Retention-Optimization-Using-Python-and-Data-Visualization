@@ -46,9 +46,15 @@ This graph reveals that customers with month-to-month contracts were more likely
 
 Exploring the impact of tenure (how long they've been a customer) and monthly charges on churn :
 
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Tenure_Distribution_By_Churn.png)
+
 ![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Monthly_Charges_Churn.png)
 
 The box plots indicate that customers with shorter tenures and higher monthly charges are at greater risk of churn.
+
+Correlation Matrix : 
+
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Correlation_Matrix.png)
 
 Investigating the impact of multiple other services usage on churn :
 
