@@ -34,31 +34,31 @@ The dataset provided for analysis contains 7,043 records representing individual
 
 Percentage of Churned Customers :
 
-(Image)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Percentage_Churned_Customers.png)
 
 The pie chart shows that the churn rate is relatively low, but even a small percentage of lost customers can impact profits significantly.
 
 Next, investigating the relationship between contract types and customer churn.
 
-(Image)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Count_Customers_Contract.png)
 
 This graph reveals that customers with month-to-month contracts were more likely to churn than those with annual contracts. This highlights the importance of building long-term customer relationships.
 
 Exploring the impact of tenure (how long they've been a customer) and monthly charges on churn :
 
-(Image)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Monthly_Charges_Churn.png)
 
 The box plots indicate that customers with shorter tenures and higher monthly charges are at greater risk of churn.
 
 Investigating the impact of multiple other services usage on churn :
 
-(Image)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Count_Plots.png)
 
 The countplots revealed that some services, such as online security and tech support, were linked to lower churn rates.
 
 Impact of payment methods on churn :
 
-(Image)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Payment_Method_Churn.png)
 
 ## Business Insights : 
 **1. Contract Type:**
