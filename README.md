@@ -1,15 +1,13 @@
 # Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies
 
 ## Table of contents
-1. [Business Overview]()
-2. [Project Overview]()
-3. [Data Overview]()  
-4. [Exploratory Data Analysis]()
-5. [Challenges Identified](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#challenges-identified)
-6. [Solving Business Problems (SQL Queries)](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#solving-business-problems)
-7. [Result and Business Impact](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#results--business-impact)
-8. [Recommendations](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#recommendations)
-9. [Conclusion](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#conclusion)
+1. [Business Overview](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#business-overview)
+2. [Project Overview](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#project-overview)
+3. [Data Overview](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#data-overview)  
+4. [Exploratory Data Analysis](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#explorartory-data-analysis)
+5. [Business Insights](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#business-insights-)
+6. [Conclusion](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#conclusion)
+7. [Recommendation](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#recommendations)
 
 ## Business Overview 
 A mobile network operator, offering a variety of services including voice, data, and digital content, has been experiencing increasing customer churn rates over the past year. With fierce competition in the wireless communications industry and the high costs associated with customer acquisition, reducing churn has become critical for maintaining profitability and market share. Customer churn, defined as the rate at which users leave or cancel their mobile services, has been steadily rising, leading to concerns about customer loyalty and overall revenue retention.
@@ -127,7 +125,6 @@ Investigate why electronic check users are churning at higher rates and consider
 **5. Upsell and Bundle Services:**
 Create personalized upselling campaigns that encourage customers to subscribe to value-added services such as mobile data, premium streaming options, or device protection plans. This will not only boost revenue but also increase the stickiness of the service. Offering competitive bundles could reduce churn by increasing the perceived value of staying with the company.
 
-## Conclusion
 By taking a data-driven approach to understanding customer churn, the mobile network operator can implement highly targeted strategies to retain at-risk customers. Offering longer-term contracts, adjusting pricing strategies, improving customer onboarding, and addressing payment preferences are key steps to reducing churn and improving customer lifetime value. If successfully executed, these strategies could significantly lower the churn rate, increase customer satisfaction, and protect the company's bottom line and increase profitability.
 
 
