@@ -1,5 +1,16 @@
 # Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies
 
+## Table of contents
+1. [Business Overview]()
+2. [Project Overview]()
+3. [Data Overview]()  
+4. [Exploratory Data Analysis]()
+5. [Challenges Identified](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#challenges-identified)
+6. [Solving Business Problems (SQL Queries)](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#solving-business-problems)
+7. [Result and Business Impact](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#results--business-impact)
+8. [Recommendations](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#recommendations)
+9. [Conclusion](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#conclusion)
+
 ## Business Overview 
 A mobile network operator, offering a variety of services including voice, data, and digital content, has been experiencing increasing customer churn rates over the past year. With fierce competition in the wireless communications industry and the high costs associated with customer acquisition, reducing churn has become critical for maintaining profitability and market share. Customer churn, defined as the rate at which users leave or cancel their mobile services, has been steadily rising, leading to concerns about customer loyalty and overall revenue retention.
 
@@ -34,37 +45,37 @@ The dataset provided for analysis contains 7,043 records representing individual
 
 Percentage of Churned Customers :
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Percentage_Churned_Customers.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Percentage_Churned_Customers.png)
 
 The pie chart shows that the churn rate is relatively low, but even a small percentage of lost customers can impact profits significantly.
 
 Next, investigating the relationship between contract types and customer churn.
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Count_Customers_Contract.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Count_Customers_Contract.png)
 
 This graph reveals that customers with month-to-month contracts were more likely to churn than those with annual contracts. This highlights the importance of building long-term customer relationships.
 
 Exploring the impact of tenure (how long they've been a customer) and monthly charges on churn :
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Tenure_Distribution_By_Churn.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Tenure_Distribution_By_Churn.png)
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Monthly_Charges_Churn.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Monthly_Charges_Churn.png)
 
 The box plots indicate that customers with shorter tenures and higher monthly charges are at greater risk of churn.
 
 Correlation Matrix : 
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Correlation_Matrix.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Correlation_Matrix.png)
 
 Investigating the impact of multiple other services usage on churn :
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Count_Plots.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Count_Plots.png)
 
 The countplots revealed that some services, such as online security and tech support, were linked to lower churn rates.
 
 Impact of payment methods on churn :
 
-![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Payment_Method_Churn.png)
+![Image](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/blob/main/Output/Payment_Method_Churn.png)
 
 ## Business Insights : 
 **1. Contract Type:**
