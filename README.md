@@ -1,4 +1,4 @@
-# Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies
+# Customer Behaviour Analysis and Retention Optimization Using Python and Data Visualization
 
 ## Table of contents
 1. [Business Overview](https://github.com/Pralhad789/Maximizing-Customer-Loyalty-and-CLV-through-Data-Driven-Strategies/tree/main#business-overview)
